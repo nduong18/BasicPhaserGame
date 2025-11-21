@@ -1,5 +1,5 @@
 # BasicPhaserGame - PhaserJS
-## [Play Here](https://nduong18.github.io/BasicPhaserGame/)
+## [Play Here](https://nduong18.github.io/StarCollector/)
 ### How to play: move with left and right arrows, up arrow to jump to pick up stars and avoid bombs
 ![Game](thumbnail/Game.png)
 ![GameOver](thumbnail/GameOver.png)
